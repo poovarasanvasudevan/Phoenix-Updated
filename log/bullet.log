@@ -1,0 +1,12 @@
+2016-01-21 20:53:15[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
+2016-01-22 06:55:20[WARN] user: poovarasan
+/total-sales-summary-validate.json
+Unused Eager Loading detected
+  Product => [:language, :category]
+  Remove from your finder: :includes => [:language, :category]
+
